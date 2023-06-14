@@ -1,0 +1,1 @@
+This Dataset goes deeper into profile and acceptance details of international student applying to US Universities to pursue their bachelors. US is the biggest study abroad destination for international students and admission processes are very random from what everyone tells us. This data will help analyze patterns in the same process.

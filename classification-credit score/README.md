@@ -1,0 +1,1 @@
+This dataset contains information about a sample of multiple people. Given Data shold classifi for Multiple Classification like Age,Gender,Income,Education,Marital Status,Number of Children,Home Ownership, Credit Score

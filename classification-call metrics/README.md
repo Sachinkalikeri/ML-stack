@@ -1,0 +1,3 @@
+The idea is that others can run simple regression and classification models on this dataset.
+This dataset contains anonymous data from a call center, and the metrics obtained regarding customer service agents.
+preprocess a call center metrics dataset by performing the following steps: loading and inspecting the dataset, handling missing values and data type conversion, analyzing the correlation between variables, splitting the dataset into training and testing sets, normalizing the variables using StandardScaler, and applying dimensionality reduction using PCA.
